@@ -168,9 +168,9 @@ links:
 # Analytics
 
 analytics:
-provider               : false
-google:
-tracking_id          :
+  provider               : false
+  google:
+    tracking_id          :
 
 # Reading Files
 
@@ -181,33 +181,32 @@ include:
 * files
 
 exclude:
-
-* "*.sublime-project"
-* "*.sublime-workspace"
-* .asset-cache
-* .bundle
-* .github
-* .jekyll-assets-cache
-* .sass-cache
-* assets/js/_main.js
-* assets/js/plugins
-* assets/js/vendor
-* CHANGELOG
-* Capfile
-* config
-* Dockerfile
-* Gemfile
-* Gruntfile.js
-* gulpfile.js
-* LICENSE
-* local
-* log
-* node_modules
-* package.json*
-* Rakefile
-* README
-* tmp
-* vendor
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - ".asset-cache"
+  - ".bundle"
+  - ".github"
+  - ".jekyll-assets-cache"
+  - ".sass-cache"
+  - "assets/js/_main.js"
+  - "assets/js/plugins"
+  - "assets/js/vendor"
+  - "CHANGELOG"
+  - "Capfile"
+  - "config"
+  - "Dockerfile"
+  - "Gemfile"
+  - "Gruntfile.js"
+  - "gulpfile.js"
+  - "LICENSE"
+  - "local"
+  - "log"
+  - "node_modules"
+  - "package.json*"
+  - "Rakefile"
+  - "README"
+  - "tmp"
+  - "vendor"
 
 keep_files:
 
