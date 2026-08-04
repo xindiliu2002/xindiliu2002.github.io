@@ -37,3 +37,8 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Hide default Academic Pages footer */
+.page__footer {
+  display: none !important;
+}
