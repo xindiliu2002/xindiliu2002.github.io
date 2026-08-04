@@ -11,7 +11,7 @@ I am a master's student in Industrial Economics at the School of Economics and M
 
 My research interests are **empirical industrial organization**, **labor economics**, and **corporate finance**. I am particularly interested in how data regulation, digital technologies, and platform markets reshape firm behavior, market structure, and economic outcomes.
 
-My current research examines whether data privacy regulation increases market concentration, using the GDPR as an empirical setting. I am also working on projects related to managerial disclosure, investment efficiency, digital finance, and platform markets.
+My current research examines whether data privacy regulation increases market concentration, using the GDPR as an empirical setting. I am also working on projects related to managerial disclosure, investment efficiency, digital finance, and Employment Volatility.
 
 ## Working Paper
 
