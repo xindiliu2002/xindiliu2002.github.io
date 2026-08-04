@@ -22,65 +22,71 @@ repository               : "xindiliu2002/xindiliu2002.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
- author:
-  # Biographic information
-  avatar           :
-  name             : "Xindi Liu"
-  pronouns         :
-  bio              : "Master's student in Industrial Economics at the University of Chinese Academy of Sciences."
-  location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences"
-  uri              : "https://xindiliu2002.github.io"
-  email            : "xindi.liu2002@outlook.com"
 
-  # Academic websites
-  academia         :
-  arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=TR6OYe0AAAAJ&hl=en&oi=ao"
-  inspire-hep      :
-  impactstory      :
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-9568-2984"
-  semantic         :
-  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5541016"
-  pubmed           :
-  researchgate     :
-  scopus           :
-  zotero           :
+# Biographic information
 
-  # Repositories and software development
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  github           : "xindiliu2002"
-  kaggle           :
-  stackoverflow    :
+avatar           :
+name             : "Xindi Liu"
+pronouns         :
+bio              : "Master's student in Industrial Economics at the University of Chinese Academy of Sciences."
+location         : "Beijing, China"
+employer         : "University of Chinese Academy of Sciences"
+uri              : "https://xindiliu2002.github.io"
+email            : "[xindi.liu2002@outlook.com](mailto:xindi.liu2002@outlook.com)"
 
-  # Social media
-  artstation       :
-  bluesky          :
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
+# Academic websites
+
+academia         :
+arxiv            :
+googlescholar    : "https://scholar.google.com/citations?user=TR6OYe0AAAAJ&hl=en&oi=ao"
+inspire-hep      :
+impactstory      :
+orcid            : "https://orcid.org/0009-0005-9568-2984"
+semantic         :
+ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5541016"
+pubmed           :
+researchgate     :
+scopus           :
+zotero           :
+
+# Repositories and software development
+
+bitbucket        :
+codepen          :
+dribbble         :
+github           : "xindiliu2002"
+kaggle           :
+stackoverflow    :
+
+# Social media
+
+artstation       :
+bluesky          :
+facebook         :
+flickr           :
+foursquare       :
+goodreads        :
+google_plus      :
+keybase          :
+instagram        :
+lastfm           :
+linkedin         :
+mastodon         :
+medium           :
+pinterest        :
+soundcloud       :
+steam            :
+telegram         :
+tumblr           :
+twitter          :
+vine             :
+weibo            :
+wikipedia        :
+xing             :
+youtube          :
+zhihu            :
+
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
