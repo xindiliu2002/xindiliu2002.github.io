@@ -16,7 +16,7 @@ My current research examines whether data privacy regulation increases market co
 ## Working Paper
 
 [“Signal Transmission” or “Tone Manipulation”? Managerial Excessive Tone and Investment Efficiency in China  
-with Zheyu Du].(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6630598) SSRN Working Paper.  
+with Zheyu Du](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6630598) SSRN Working Paper.  
 
 ## Selected Publications
 
