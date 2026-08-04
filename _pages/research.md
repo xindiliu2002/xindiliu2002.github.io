@@ -12,9 +12,10 @@ My research interests lie at the intersection of empirical industrial organizati
 
 My master's thesis examines whether data privacy regulation increases market concentration, using the General Data Protection Regulation (GDPR) as an empirical setting. This project studies how regulatory compliance costs, data access restrictions, and changes in digital advertising and platform governance may affect firms with different sizes and data-processing capabilities.
 
-### Managerial Disclosure and Investment Efficiency
+### Artificial Intelligence and Employment Stability
 
-I am also working on a project on managerial excessive tone and corporate investment efficiency in China. This study examines whether unusually positive managerial tone in annual reports serves as credible information transmission rather than impression management. Using MD&A textual disclosures from Chinese A-share listed firms, the project studies how managerial disclosure is associated with investment efficiency, risk-taking, and internal control quality.
+I am also developing a project on how firm-level artificial intelligence adoption affects employment stability in China. Rather than focusing only on net employment growth, this project examines whether AI changes the volatility of firms’ labor demand and the intensity of employment adjustment. Using listed-firm data and text-based measures of AI adoption, I study whether AI amplifies employment instability through job displacement and organizational restructuring, or improves stability through productivity gains, output expansion, and task reallocation. I am particularly interested in how these effects vary across industries, firm size, skill structure, and digital intensity.
+
 
 ## Broader Research Agenda
 
