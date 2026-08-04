@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests lie at the intersection of **empirical industrial organization**, **digital economics**, and **applied microeconomics**. I am particularly interested in how data regulation, digital technologies, and platform markets reshape firm behavior, market structure, and economic outcomes.
+My research interests lie at the intersection of empirical industrial organization, labor economics, and corporate finance. I am particularly interested in how data regulation, digital technologies, and platform markets reshape firm behavior, market structure, and economic outcomes.
 
 ## Current Research
 
