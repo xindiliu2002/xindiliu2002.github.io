@@ -25,6 +25,10 @@ Du, Z., & **Liu, X.**(corresponding author) (2026).
 SSRN Working Paper.  
 [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6630598)
 
+**Liu, X.**, Chang, H., & Lu, S. (2026). 
+“Artificial Intelligence Adoption, Occupational Reallocation, and Firm-Level Employment Volatility: Micro-Level Evidence from Chinese A-Share Listed Firms”. 
+Working Paper.
+
 ## Research in Progress
 
 **Artificial Intelligence and Employment Stability**  
