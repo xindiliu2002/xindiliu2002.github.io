@@ -16,6 +16,7 @@ My current research examines whether data privacy regulation increases market co
 ## Working Paper
 
 Du, Z., & **Liu, X**.**(corresponding author)** (2026). [“Signal Transmission” or “Tone Manipulation”? Managerial Excessive Tone and Investment Efficiency in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6630598) . SSRN Working Paper.
+
 **Liu, X**. Chang, H. & Lu, S. (2026). Artificial Intelligence Adoption, Occupational Reallocation, and Firm-Level Employment Volatility: Micro-Level Evidence from Chinese A-Share Listed Firms.
 
 ## Selected Publications
