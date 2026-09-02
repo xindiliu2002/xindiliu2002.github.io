@@ -20,7 +20,7 @@ Zou, Z., Zhang, Y., **Liu, X.**, Li, X., & Wang, M. (2024).
 
 ## Working Papers
 
-**Du, Z.**, & **Liu, X.** (2026).  
+Du, Z., & **Liu, X.**(corresponding author) (2026).  
 “Signal Transmission” or “Tone Manipulation”? Managerial Excessive Tone and Investment Efficiency in China.  
 SSRN Working Paper.  
 [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6630598)
