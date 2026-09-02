@@ -9,7 +9,7 @@ redirect_from:
 
 You can download my CV here:
 
-[Download CV](/files/Xindi_Liu_CV.pdf)
+[Download CV](/files/Xindi_Liu_CV2.pdf)
 
 ## Education
 
